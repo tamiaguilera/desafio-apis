@@ -1,0 +1,30 @@
+body{
+    padding: 0,5rem;
+}
+.imgFondo{
+    position: relative;
+    background-image: url('./../img/fondoimg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.card{
+    margin-top: 50px;
+}
+.card-body{
+    background-color: rgb(216, 205, 186);
+    
+   
+}
+
+
+#chart {
+    max-width: 650px;
+    margin: 35px auto;
+    opacity: 90%;
+    background: aliceblue;
+}
+  
+  
